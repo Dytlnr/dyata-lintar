@@ -19,7 +19,7 @@ public class Main{
                 String nim;
 
                 System.out.print("Masukkan NIM: ");
-                nim = String.valueOf(new Scanner(System.in).nextLine());
+                nim = new Scanner(System.in).nextLine();
 
                 if (nim.length() == 15) {
                     // Login berhasil
