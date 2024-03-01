@@ -8,7 +8,7 @@ public class Main {
 
         // Input nama
         System.out.print("Masukkan nama: ");
-        String nama = scanner.nextLine();
+        String nama = scannegiyr.nextLine();
 
         // Input jenis kelamin (singkatan P atau L)
         System.out.print("Masukkan jenis kelamin (P/L): ");
